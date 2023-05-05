@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Journey ID Android SDK Sample</string>
+    <string name="intro">Journey ID SDK Sample</string>
 </resources>
